@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amalendu Bokil!
+- 👀 I’m interested in expanding my skills and knowledge in the field of Computer Science
+- 🌱 I’m currently majoring in Computer Science at Penn State 
+- 📫 My personal email is: amalendubokil@gmail.com
